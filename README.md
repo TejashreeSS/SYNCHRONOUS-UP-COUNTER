@@ -56,4 +56,4 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ![TRUTHTABLE UP](https://github.com/user-attachments/assets/db284906-f159-43a8-8dc0-c85b1a234658)
 
 ## RESULT :
- Hence a 4 bit synchronous up counter is implemented correctly.
+ Hence a 4 bit synchronous up counter is implemented successfully.
